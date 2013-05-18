@@ -1,0 +1,33 @@
+/* 
+    Document   : style
+    Created on : May 17, 2013, 1:35:51 PM
+    Author     : HTV
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+body {
+    width: 98%;
+    margin: 10px;
+    background-color: #feac02;/*#ff6e02;*/
+    background-repeat: repeat;
+    /*background-repeat: repeat-y;
+    background-image: url("http://localhost/restaurant/public/img/bg.jpg");*/
+}
+/*#loginInfo {
+    width: 200px;
+    margin: 5px;
+    padding: 5px;
+    display: none;
+    height: 200px;
+}
+#registerInfo {
+    width: 200px;
+    margin: 5px;
+    padding: 5px;
+    display: none;
+    height: 200px;
+}*/
